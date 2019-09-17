@@ -1,3 +1,12 @@
-h1 {
-  color: red;
-}
+body {text-align: center}
+
+h1 {color: #FFE66B;
+font-size: 36px;
+text-align: center;
+font-family: 'Oswald', sans-serif;}
+
+img{width: 200px}
+.photo2{width: 400px;}
+
+body{background: #7A62C9;
+font-family: arial;}
